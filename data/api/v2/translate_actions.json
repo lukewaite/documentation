@@ -1,4 +1,8 @@
 {
+  "ListProcesses": {
+    "description": "Get all processes for your organization.",
+    "summary": "Get all processes"
+  },
   "DeleteDashboardListItems": {
     "description": "Delete dashboards from an existing dashboard list.",
     "summary": "Delete items from a dashboard list",
